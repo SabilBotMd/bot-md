@@ -35,23 +35,23 @@ module.exports = {
         global.namabot = conn.user.name
         global.packname = global.namabot
         global.author = global.data.owner
-        //global.author = 'The.sad.boy01'
+        //global.author = 'ᴅᴀɴɪ ᴏғғɪᴄᴀʟ👑'
         global.wm2 = global.data.namabot + ' ' + global.data.owner
-        global.wm = namabot + ' 𝙱𝚢 𝙼𝚊𝚍𝚎𝚇𝚢𝚣'
+        global.wm = namabot + 'ᴅᴀɴɪʙᴏᴛᴢ ᴏғғᴄ👑'
         global.colong1 = 'Ciss 📸'
-        global.colong2 = '𝙱𝚢 𝙼𝚊𝚍𝚎𝚇𝚢𝚣'        
+        global.colong2 = 'ᴅᴀɴɪ ᴏғғɪᴄᴀʟ👑'        
         global.kontak2 = [
-        ['687965044', '𝙼𝚊𝚍𝚎𝚇𝚢𝚣', 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'mdxganz@gmail.com', true],
-        ['6287843054910', 'Kᴛʜ-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6287843054910', 'Kᴛʜ-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6287843054910', 'Kᴛʜ-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6287843054910', 'Kᴛʜ-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6287843054910', 'Kᴛʜ-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6287843054910', 'Kᴛʜ-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6287843054910', 'Kᴛʜ-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6287843054910', 'Kᴛʜ-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6287843054910', 'Kᴛʜ-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6287843054910', 'Kᴛʜ-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
+        ['6281251549899', 'ᴅᴀɴɪ ᴏғғɪᴄᴀʟ👑', 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'danibotz961@gmail.com', true],
+        ['6285940777881', 'ᴅᴀɴɪ-ʙᴏᴛᴢ', 'Bot WhatsApp', 'Nothing!', true],
+        ['6285940777881', 'ᴅᴀɴɪ-ʙᴏᴛᴢ', 'Bot WhatsApp', 'Nothing!', true],
+        ['6285940777881', 'ᴅᴀɴɪ-ʙᴏᴛᴢ', 'Bot WhatsApp', 'Nothing!', true],
+        ['6285940777881', 'ᴅᴀɴɪ-ʙᴏᴛᴢ', 'Bot WhatsApp', 'Nothing!', true],
+        ['6285940777881', 'ᴅᴀɴɪ-ʙᴏᴛᴢ', 'Bot WhatsApp', 'Nothing!', true],
+        ['6285940777881', 'ᴅᴀɴɪ-ʙᴏᴛᴢ', 'Bot WhatsApp', 'Nothing!', true],
+        ['6285940777881', 'ᴅᴀɴɪ-ʙᴏᴛᴢ', 'Bot WhatsApp', 'Nothing!', true],
+        ['6285940777881', 'ᴅᴀɴɪ-ʙᴏᴛᴢ', 'Bot WhatsApp', 'Nothing!', true],
+        ['6285940777881', 'ᴅᴀɴɪ-ʙᴏᴛᴢ', 'Bot WhatsApp', 'Nothing!', true],
+        ['6285940777871', 'ᴅᴀɴɪ-ʙᴏᴛᴢ', 'Bot WhatsApp', 'Nothing!', true],
         ]
         global.bg = await (await fetch(img)).buffer()
         global.time = require('moment-timezone').tz('Asia/Jakarta').format('HH:mm:ss')
