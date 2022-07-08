@@ -21,7 +21,7 @@ wa.me/${owner[0]}
 *Bukan Bot!!!*
 *Owner ${conn.user.name}*
 `,
-  buttonText: 'Harga Bisa Nego Kack 😉',
+  buttonText: 'Bg ko harganya mahal? kalau mau murah bikin sendir👌',
   listType: 2,
   productListInfo: {
   productSections: [{
@@ -31,7 +31,7 @@ wa.me/${owner[0]}
   jpegThumbnail: d },
   businessOwnerJid: `${owner[0]}@s.whatsapp.net`
   },
-  footerText: 'https://github.com/Kangsad01',
+  footerText: 'https://github.com/YTDANIBOTZ',
   }},{})
   conn.relayMessage(prepare.key.remoteJid,prepare.message,{messageId:prepare.key.id})
 }
