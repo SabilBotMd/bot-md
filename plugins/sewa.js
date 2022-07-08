@@ -21,7 +21,7 @@ wa.me/${owner[0]}
 *Bukan Bot!!!*
 *Owner ${conn.user.name}*
 `,
-  buttonText: 'Bg ko harganya mahal? kalau mau murah bikin sendir👌',
+  buttonText: 'Bg ko harganya mahal? kalau mau murah bikin sendiri👌',
   listType: 2,
   productListInfo: {
   productSections: [{
