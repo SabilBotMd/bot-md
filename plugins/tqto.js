@@ -39,6 +39,8 @@ Fahri Adison:
 https://github.com/FahriAdison
 Made Ganz:
 https://github.com/Madexyz
+Dani Official:
+https://github.com/YTDANIBOTZ
 
 \`\`\`${conn.user.name}\`\`\`
 `
